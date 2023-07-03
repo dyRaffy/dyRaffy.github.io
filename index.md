@@ -1,1 +1,1 @@
-<h1>Git Worflow Demo. Kein POC :-)</h1>
+<h1>Git Worflow Demo!</h1>
